@@ -6,7 +6,7 @@ Simple 2D Game with Unity
 <img src="https://github.com/ali-nroshan/MadBirds/blob/main/MadBirds/Level3.png"/>
 <img src="https://github.com/ali-nroshan/MadBirds/blob/main/MadBirds/Level4.png"/>
 
-## Things I learned or get familiar in the process of making this game :
+## Things I learned during the process of making this game : 
 #### 1- Get familiar with Unity Game Engine.
 #### 2- Get familiar with physics in unity.
 #### 3- Get familiar with materials/components/particles in unity (aim assistant, reaction when a monster dies, etc...).
