@@ -16,6 +16,6 @@ Simple 2D Game with Unity
 #### 6- and some other stuff that I don't remember now :)
 I could not upload here because the size of the file is more than the allowed upload size :(
 
-but you can download the game on my telegram channel (for Windows OS) : <a href="https://t.me/+uq-ZaXnt3iw4Y2M0">MyTelegramChannel</a>
+but you can download the game on my telegram channel (for Windows OS) : <a href="https://t.me/+xgs2RAEpwn03ZGM0">MyTelegramChannel</a>
 
 Good luck :)
